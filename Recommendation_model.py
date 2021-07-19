@@ -10,7 +10,7 @@ import numpy as np
 import pandas as pd
 
 def model(Item_Id):
-    df=pd.read_csv("C:/Users/lenovo/cloth_test.csv")
+    df=pd.read_csv("Recommendtation_system\pre_modcloth.csv")
     #df
 
     # Commented out IPython magic to ensure Python compatibility.
